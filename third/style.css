@@ -1,0 +1,32 @@
+.complement{
+    display:flex;
+    max-width: 50%;
+    gap: 10px;
+}
+.menu{
+    background-color: cadetblue;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+.first{
+    background-color: blue;
+    aspect-ratio: 1/1;
+}
+.second{
+    background-color: green;
+    aspect-ratio: 1/1;
+}
+.third{
+    background-color: red;
+    aspect-ratio: 1/1;
+}
+.fourth{
+    background-color: yellow;
+    aspect-ratio: 1/1;
+}
+
+.other{
+    background-color: gray;
+    width: 100vh;
+}
