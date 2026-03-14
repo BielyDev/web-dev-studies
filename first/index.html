@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+        function soma(a, b){
+            return a + b;
+        }
+
+        function get_random_soma(){
+            document.getElementById("result").textContent = "Resultado é " + soma(5,4);
+        }
+
+        </script>
+        <title>GridEx</title>
+    </head>
+    <body>
+        <nav>
+            <p>Menu</p>
+            <button onclick="get_random_soma()">Somar</button>
+            <a href="/docs">doc</a>            
+        </nav>
+        <div class="document">
+            <p id="result">resultado</p>
+        </div>        
+    </body>
+
+</html>
