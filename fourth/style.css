@@ -1,0 +1,53 @@
+:root{
+    --bg_color: rgb(49, 45, 54);
+    --base_color: rgb(66, 63, 75);
+
+    --font_color: rgb(179, 175, 196);
+    --link_color: rgb(179, 175, 196);
+}
+a{
+    color: var(--link_color);
+}
+
+p{
+    color: var(--font_color);
+    font-size: x-large;
+}
+
+body{
+    background-color: gray;
+}
+
+.panel{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--bg_color);
+    aspect-ratio: 1;
+}
+
+.hbox{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.search_content{
+    background-color: var(--base_color);
+    width: 30%;
+}
+
+.nav_bar{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.content{
+    width: 100%;
+}
+
+.folder_button{
+    background-color: var(--bg_color);
+    width: 100%;
+}
+

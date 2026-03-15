@@ -1,0 +1,452 @@
+{
+  " for (var item of array_list){}_127245": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": " for (var item in array_list){}",
+    "parent": "for_43174"
+  },
+  "--_396757": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Se declara variaveis com \"--nome\"",
+    "parent": "CSS_697702"
+  },
+  ".\"container\"{}_409075": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": ".\"container\"{}",
+    "parent": "CSS_697702"
+  },
+  "<body></body>_657033": {
+    "complete": false,
+    "details": "  Contém todo o conteúdo visível da página,\ncomo texto, imagens, botões e formulários.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<body></body>",
+    "parent": "Element_798364"
+  },
+  "<button></button>_721029": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<button></button>",
+    "parent": "<body></body>_657033"
+  },
+  "<div class=\"\"></div>_580654": {
+    "complete": false,
+    "details": "  É um container genérico usado para agrupar elementos\ne aplicar estilos ou comportamento com CSS e JavaScript.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<div class=\"\"></div>",
+    "parent": "Element_798364"
+  },
+  "<head></head>_926859": {
+    "complete": false,
+    "details": "  O elemento HTML <head> providencia informações gerais (metadados) sobre o documento, incluindo seu título e links para scripts e folhas de estilos.",
+    "favorite": false,
+    "folder": true,
+    "image": [],
+    "name": "<head></head>",
+    "parent": "Element_798364"
+  },
+  "<html></html>_666414": {
+    "complete": false,
+    "details": "  Elemento raiz do arquivo, todos os outros elementos devem ser descendentes deste.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<html></html>",
+    "parent": "Element_798364"
+  },
+  "<input/>_342129": {
+    "complete": false,
+    "details": "Elemento usado para criar campos de entrada de dados\nem formulários.\n\nPode representar vários tipos:\n- texto\n- senha\n- botão\n- checkbox\n- radio",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<input/>",
+    "parent": "<body></body>_657033"
+  },
+  "<link></link>_987577": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": true,
+    "image": [],
+    "name": "<link></link>",
+    "parent": "<head></head>_926859"
+  },
+  "<nav></nav>_975855": {
+    "complete": false,
+    "details": "  É um container com significado, serve para dizer onde ficam os links para navegar no site.\n\n- Indicar navegação.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<nav></nav>",
+    "parent": "Element_798364"
+  },
+  "<p></p>_765878": {
+    "complete": false,
+    "details": "Elemento usado para representar um parágrafo de texto.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<p></p>",
+    "parent": "<body></body>_657033"
+  },
+  "<script src=\"init.js\" defer></script>_120035": {
+    "complete": false,
+    "details": "  Se estiver no <head>, o navegador pausa o carregamento da página\npara executar o script.\n\n  O atributo defer faz o script ser baixado durante o carregamento\nda página e executado apenas depois que o HTML terminar de carregar.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<script src=\"script.js\" defer></script>",
+    "parent": "<script></script>_266455"
+  },
+  "<script></script>_266455": {
+    "complete": false,
+    "details": "Elemento usado para inserir ou carregar código\nJavaScript em uma página HTML.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<script></script>",
+    "parent": "Element_798364"
+  },
+  "<style></style>_924865": {
+    "complete": false,
+    "details": "  Permite codar CSS.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<style></style>",
+    "parent": "<head></head>_926859"
+  },
+  "<title></title>_475556": {
+    "complete": false,
+    "details": "Define o título da página exibido na aba do navegador.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "<title></title>",
+    "parent": "<head></head>_926859"
+  },
+  "Ajax_985471": {
+    "complete": false,
+    "details": "  Ajax (Asynchronous JavaScript and XML) é uma técnica usada para enviar e receber dados do servidor sem recarregar a página inteira.\n\n  Normalmente se usa o fetch()",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Ajax",
+    "parent": "Tecninca_876285"
+  },
+  "Api_29853": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Api",
+    "parent": ""
+  },
+  "Basico_319245": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": true,
+    "image": [],
+    "name": "Basico",
+    "parent": ""
+  },
+  "CSS_697702": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "CSS",
+    "parent": ""
+  },
+  "Canvas_988492": {
+    "complete": false,
+    "details": "  Serve para desenhar na tela, suportando tanto 2D quanto WebGL para 3D.\n\n- Chegou no HTML5",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Canvas",
+    "parent": "Api_29853"
+  },
+  "Comum_227777": {
+    "complete": false,
+    "details": "html\nhead\nbody\ndiv\np\nh1-h6\na\nimg\nbutton\ninput\nform\nscript\nlink",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Comum",
+    "parent": "Basico_319245"
+  },
+  "DOM_703587": {
+    "complete": false,
+    "details": "  O DOM (Document Object Model) é uma representação em árvore da página HTML que permite ao JavaScript ler e modificar elementos da página.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "DOM",
+    "parent": "Api_29853"
+  },
+  "Date_519523": {
+    "complete": false,
+    "details": "  É um objeto que marca a Data e hora:\n\nconsole.log(new Date(8.64e15).toString()); // \"Sat Sep 13 275760 00:00:00 GMT+0000 (Coordinated Universal Time)\"\nconsole.log(new Date(8.64e15 + 1).toString()); // \"Invalid Date\"",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Date",
+    "parent": "Estruturas_91189"
+  },
+  "Element_798364": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": true,
+    "image": [],
+    "name": "Element",
+    "parent": "HTML_897780"
+  },
+  "Estrurura_718344": {
+    "complete": false,
+    "details": "HTML → estrutura\nCSS → aparência\nJavaScript → comportamento",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Estrurura",
+    "parent": "Basico_319245"
+  },
+  "Estruturas_91189": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Estruturas",
+    "parent": ""
+  },
+  "Funções_988983": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Funções",
+    "parent": ""
+  },
+  "HTML_897780": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "HTML",
+    "parent": ""
+  },
+  "IndexedDB_406807": {
+    "complete": false,
+    "details": "  É um banco de dados do navegador, que permite procurarmos objetos a partir de dados, usa-lo permite uma maior flexibilidade.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "IndexedDB",
+    "parent": "Api_29853"
+  },
+  "Node.js_150749": {
+    "complete": false,
+    "details": "É um Runtime que permite programar em JavaScript fora do navegador.",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Node.js",
+    "parent": "Runtime_154627"
+  },
+  "Runtime_154627": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Runtime",
+    "parent": ""
+  },
+  "Tecninca_876285": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Tecnica",
+    "parent": ""
+  },
+  "Variaveis_747118": {
+    "complete": false,
+    "details": "var number = 0;",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "Variaveis",
+    "parent": "Estruturas_91189"
+  },
+  "alert()_831590": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "alert()",
+    "parent": "Funções_988983"
+  },
+  "appendChild_26413": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "appendChild()",
+    "parent": "DOM_703587"
+  },
+  "aspect-ratio_257320": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "aspect-ratio",
+    "parent": "CSS_697702"
+  },
+  "background-color_324023": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "background-color",
+    "parent": "CSS_697702"
+  },
+  "console.log()_773034": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "console.log()",
+    "parent": "Funções_988983"
+  },
+  "createElement_723293": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "createElement()",
+    "parent": "document_178958"
+  },
+  "display_942029": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "display",
+    "parent": "CSS_697702"
+  },
+  "document_178958": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": true,
+    "image": [],
+    "name": "document",
+    "parent": "DOM_703587"
+  },
+  "flex_438589": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "flex",
+    "parent": "CSS_697702"
+  },
+  "for (var item of array_list){}_335102": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "for (var item of array_list){}",
+    "parent": "for_43174"
+  },
+  "for_43174": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": true,
+    "image": [],
+    "name": "for",
+    "parent": "Basico_319245"
+  },
+  "getElementById()_552504": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "getElementById()",
+    "parent": "document_178958"
+  },
+  "href=\"style.css\"_956681": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "href=\"style.css\"",
+    "parent": "<link></link>_987577"
+  },
+  "rel=\"stylesheet\"_551020": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "rel=\"stylesheet\"",
+    "parent": "<link></link>_987577"
+  },
+  "width_976710": {
+    "complete": false,
+    "details": "-px\n-vh",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "width-height",
+    "parent": "CSS_697702"
+  },
+  "É possivel rodar script em escopo aberto no JS_917757": {
+    "complete": false,
+    "details": "",
+    "favorite": false,
+    "folder": false,
+    "image": [],
+    "name": "É possivel rodar script em escopo aberto no JS",
+    "parent": "Basico_319245"
+  }
+}
