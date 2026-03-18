@@ -1,0 +1,35 @@
+:root{
+    --bg_color : #2C2F33;
+    --bg_2_color : #23272a;
+    --bg_3_color : #191f24;
+}
+body{
+    background-color: var(--bg_2_color);
+    display: flex;
+}
+
+.panel{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.bar{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 10;
+}
+
+.top_bar{
+    background-color: var(--bg_color);
+}
+
+.content{
+    background-color: var(--bg_2_color);
+    flex-grow: 1;
+}
+
+.down_bar{
+    background-color: var(--bg_3_color);
+    flex-grow: 1;
+}

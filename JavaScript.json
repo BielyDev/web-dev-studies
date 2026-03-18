@@ -165,7 +165,7 @@
     "complete": false,
     "details": "",
     "favorite": false,
-    "folder": true,
+    "folder": false,
     "image": [],
     "name": "Basico",
     "parent": ""
@@ -174,7 +174,7 @@
     "complete": false,
     "details": "",
     "favorite": false,
-    "folder": false,
+    "folder": true,
     "image": [],
     "name": "CSS",
     "parent": ""
@@ -255,7 +255,7 @@
     "complete": false,
     "details": "",
     "favorite": false,
-    "folder": false,
+    "folder": true,
     "image": [],
     "name": "HTML",
     "parent": ""
